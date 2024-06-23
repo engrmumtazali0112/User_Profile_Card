@@ -1,4 +1,4 @@
-# User Profile Card
+# Student Profile Card
 
 ## Introduction
 This project is a responsive user profile card designed using HTML, CSS, Bootstrap, and Font Awesome. The card includes a profile picture, personal details, and social media links. It is designed to be easily integrated into any web project and can be customized to fit specific needs.
